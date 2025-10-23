@@ -47,7 +47,7 @@ init_db()
 # -----------------------------
 # Streamlit UI
 # -----------------------------
-st.title("🚗 Car Rental Management System - AutoEase")
+st.title("🚗 Car Rental Management System - AutoEasy")
 st.write(
     "An easy-to-use platform for managing car rentals, customer details, and rental transactions, "
     "while providing data-driven insights for better business decisions."
